@@ -10,3 +10,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::post('/public_send', 'SendMessageController@public_send');
+Route::post('/public_chat_send', 'SendMessageController@public_chat_send');

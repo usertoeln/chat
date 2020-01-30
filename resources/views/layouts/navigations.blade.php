@@ -23,6 +23,7 @@
                         <a class="dropdown-item" href="/passport">Passport info.</a>
                         <a class="dropdown-item" href="/public_send">Public messages</a>
                         <a class="dropdown-item" href="/public_board">Public board</a>
+                        <a class="dropdown-item" href="/public_chat">Public Chat</a>
                     </div>
                 </li>
             </ul>

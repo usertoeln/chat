@@ -7,7 +7,7 @@
                     <input type="text" class="form-control"
                            id="txt_public_message" v-model="public_message">
                 </div>
-                <button class="btn btn-success" @click="send_message">Send</button>
+                <button class="btn btn-success" @click="send_message">Send message</button>
             </div>
         </div>
     </div>
